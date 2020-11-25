@@ -143,7 +143,7 @@ XSnackbar xSnackbar=new XSnackbar(MainActivity.this);
                         xSnackbar.dismiss();
                     }
                 });
-                //parentlayout between SnackBar b
+                //parentlayout between SnackBar
                 xSnackbar.setSnackbarPadding(5,5,5,5);
                 //SnackBar between Text
                 xSnackbar.setPadding(10,10,10,10);
