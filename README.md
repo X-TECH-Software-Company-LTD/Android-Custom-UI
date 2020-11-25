@@ -113,7 +113,6 @@ XSnackbar xSnackbar=new XSnackbar(MainActivity.this);
                         xSnackbar.dismiss();
                     }
                 });
-                xSnackbar.setActionButtonBackgroundColor("#00000000");
                 xSnackbar.setActionButtonCornerRadius(10);
                 xSnackbar.setActionButtonRippleColor("#00ff00");
                 xSnackbar.show();
