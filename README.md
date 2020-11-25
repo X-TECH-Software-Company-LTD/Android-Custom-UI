@@ -98,7 +98,7 @@ XToast xToast=new XToast(MainActivity.this);
                 
 ```
 
-###### 1. XSnackbar
+###### 2. XSnackbar
 
 No Icon,no stoke,use button cornerRadius,use button ripple color and use default show sample
 
