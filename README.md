@@ -3,7 +3,7 @@ To Show Toast and SnackBar.
 
 ## Import Library to Gradle
 
-1 - Download CustomUI.zip and place inside "projectName/" folder .
+1 - Download CustomUI.zip and extract it
 
 https://cdn.xtsmm.com/android/libraries/CustomUI.zip
 
