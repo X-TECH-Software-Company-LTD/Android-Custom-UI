@@ -49,14 +49,14 @@ dependencies {
   9. Change Padding
   10. You can change snackbar duration
   11. Use action button
-  12 if change your action button background transparent use text button
-  13 change action button text color, text size
-  14 change action button font
-  15 change action button font style
-  16 change action button ripple color
-  17 change action button background
-  18 change action button cornerRadius
-  19 use snackbar dismiss
+  12. if change your action button background transparent use text button
+  13. change action button text color, text size
+  14. change action button font
+  15. change action button font style
+  16. change action button ripple color
+  17. change action button background
+  18.change action button cornerRadius
+  19. use snackbar dismiss
   
 ## Usage
 
