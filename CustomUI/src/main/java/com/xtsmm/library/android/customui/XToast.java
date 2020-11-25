@@ -138,7 +138,7 @@ public class XToast {
 
         Toast toast = new Toast(activity);
         toast.setGravity(Gravity.CENTER_VERTICAL, 0, phoneHeight / 3);
-        toast.setDuration(Toast.LENGTH_LONG);
+        toast.setDuration(Toast.LENGTH_SHORT);
         toast.setView(layout);
         toast.show();
     }

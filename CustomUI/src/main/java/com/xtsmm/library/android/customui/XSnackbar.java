@@ -249,6 +249,11 @@ public class XSnackbar {
         button.setRippleColorResource(color);
     }
 
+    public void setActionButtonCornerRadius(int radius) {
+        MaterialButton button=(MaterialButton)layout.findViewById(R.id.snackbar_btn);
+        button.setCornerRadius(radius);
+    }
+
     public void show() {
 
             // Add the view to the Snackbar's layout
